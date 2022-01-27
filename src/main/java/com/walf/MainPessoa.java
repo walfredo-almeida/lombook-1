@@ -17,6 +17,7 @@ public class MainPessoa {
 		
 		pessoaa.setNome("joao");
 		pessoaa.setIdade(15);
+		pessoaa.setSobrenome("sanatos");
 		
 		System.out.println(pessoaa.toString());
 		;
